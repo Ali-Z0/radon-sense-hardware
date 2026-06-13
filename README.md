@@ -264,7 +264,3 @@ Projet réalisé par :
 
 **Ali Zoubir**
 
-Projet développé dans le cadre du cours MVP.
-
-```
-```
