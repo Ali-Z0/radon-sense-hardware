@@ -1,0 +1,39 @@
+Radon Sense Proprietary License
+Copyright (c) 2026 Ali Zoubir
+All rights reserved.
+
+This repository and all associated files, including but not limited to schematics,
+PCB layouts, Altium project files, source files, documentation, images, drawings,
+simulation files, bills of materials, and design notes, are the exclusive property
+of Ali Zoubir unless explicitly stated otherwise.
+
+No permission is granted to use, copy, modify, manufacture, distribute, publish,
+sublicense, sell, commercialize, or create derivative works based on this project
+or any part of it without prior written permission from the copyright holder.
+
+The files in this repository are made available for portfolio, review, educational
+demonstration, and project documentation purposes only.
+
+In particular, you may not:
+
+1. manufacture or order PCBs based on these files;
+2. use the schematics or PCB layout in a commercial or non-commercial product;
+3. redistribute modified or unmodified versions of the project files;
+4. use this design as the basis for a competing product or service;
+5. remove copyright notices or attribution;
+6. claim authorship or ownership of the project or derived work.
+
+Permission for specific uses may be granted on a case-by-case basis by written
+agreement with the copyright holder.
+
+This project is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness for a
+particular purpose, safety, regulatory compliance, or non-infringement.
+
+The project includes experimental high-voltage and radiation-detection circuitry.
+The author is not liable for any damage, injury, loss, regulatory issue, or
+consequence arising from the use, reproduction, modification, fabrication, or
+interpretation of this project.
+
+Radon Sense is an exploratory MVP project and is not a certified radon measuring
+instrument.
