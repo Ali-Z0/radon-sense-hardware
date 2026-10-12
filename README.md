@@ -13,6 +13,12 @@ L’objectif est de rendre le risque radon plus visible, compréhensible et acti
 
 ---
 
+## Licence
+
+Ce projet n'est actuellement pas open-source. Tous les droits sont réservés.
+
+Voir le fichier [`LICENSE`](./LICENSE) pour les conditions complètes.
+
 ## Objectif du prototype
 
 Le radon est un gaz radioactif naturel, invisible et inodore, qui peut s’accumuler dans les bâtiments.  
